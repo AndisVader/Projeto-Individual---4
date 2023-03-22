@@ -11,4 +11,5 @@ ____________
 - Como essas entidades estão relacionadas?
   
   1:1 e 1:N.
-*
+***
+![Diagrama](https://github.com/AndisVader/Projeto-Individual---4/blob/main/projeto%204.PNG?raw=true)
